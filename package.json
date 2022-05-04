@@ -1,0 +1,24 @@
+{
+  "name": "social-networking-api",
+  "version": "1.0.0",
+  "description": "This is a Social Networking API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bEbOuNdLeSs/social-networking-api.git"
+  },
+  "author": "beboundless",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bEbOuNdLeSs/social-networking-api/issues"
+  },
+  "homepage": "https://github.com/bEbOuNdLeSs/social-networking-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2"
+  }
+}
